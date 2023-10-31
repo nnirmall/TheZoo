@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Hm4_Bhandari" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:logo">@mipmap/ic_launcher</item>
+    </style>
+
+    <style name="Theme.Hm4_Bhandari" parent="Base.Theme.Hm4_Bhandari" />
+</resources>
