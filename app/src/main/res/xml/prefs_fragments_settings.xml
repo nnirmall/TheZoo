@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Preference Settings">
+
+        <Preference
+            android:title="TheZoo5"
+            android:summary="Nirmal Bhandari || L20422171 \u2122"
+            android:selectable="false" />
+        <Preference
+            android:title="Version"
+            android:summary="5.0"
+            android:selectable="false" />
+        <CheckBoxPreference
+            android:title="Play Background Music"
+            android:key="key_music_enabled"
+            android:defaultValue="true" />
+        <CheckBoxPreference
+            android:title="Play Animal Sounds"
+            android:key="key_sound_enabled"
+            android:defaultValue="true" />
+        <Preference
+            android:title="About Zoo Animals"
+            android:summary="TAP HERE to learn more about the zoo animals"
+            android:key="key_animal_info" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

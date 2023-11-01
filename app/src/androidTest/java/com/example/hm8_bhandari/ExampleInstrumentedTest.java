@@ -1,4 +1,4 @@
-package com.example.hm5_bhandari;
+package com.example.hm8_bhandari;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.hm5_bhandari", appContext.getPackageName());
+        assertEquals("com.example.hm8_bhandari", appContext.getPackageName());
     }
 }

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:fragment="com.example.hm8_bhandari.PrefsFragmentSettings"
+        android:title="Preferences">
+    </header>
+</preference-headers>

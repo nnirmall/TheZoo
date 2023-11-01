@@ -1,6 +1,6 @@
 //Nirmal Bhandari
 //L20422171
-package com.example.hm7_bhandari;
+package com.example.hm8_bhandari;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -35,5 +35,4 @@ public class MainActivity extends AppCompatActivity {
         quit = true;
         super.onBackPressed();
     }
-
 }
