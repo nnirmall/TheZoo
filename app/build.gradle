@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.hm6_bhandari'
+    namespace 'com.example.hm7_bhandari'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.hm6_bhandari"
+        applicationId "com.example.hm7_bhandari"
         minSdk 19
         targetSdk 33
         versionCode 1
